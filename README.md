@@ -1,4 +1,4 @@
-# SASP-Project
+# Dereverb - Instructions
 
 - controllare i grafici del cepstrum (hanno senso?) (windowing, segmentazione, weighting, wrapping)
 - spostare su python
